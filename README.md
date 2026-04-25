@@ -1,62 +1,58 @@
-# 👋 Hey there, I'm Akinjeji Oluwaferanmi
+<div align="center">
 
-🎓 **Computer Science Student @ Lagos State University**  
-💡 Aspiring **Web3 Developer**  
-🐍 Passionate about Python & Smart Contracts  
-📍 Based in Lagos, Nigeria  
+<!-- <img src="./header.png" width="100%" alt="Eden Joy Header" /> -->
+<p align="center">
+  <img src="./labidev3.gif" width="100%" alt="Header Banner" />
+</p>
+
+
+
+
+
+# ⚡ Hi guys, My name is Akinjeji Oluwaferanmi! 
+
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=3094FF&center=true&vCenter=true&width=435&lines=Smart+Contract+Developer;Backend+Developer;" alt="Typing SVG" /></a>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=AkinjejiOluwaferanmi&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Akinjeji-Oluwaferanmi" />
+</p>
+
+---
+### 💫 About My Journey
+I am a **Blockchain Developer** driven by the potential of decentralized technology. 
+Beyond building, 
+
+**Currently Exploring:** Deep diving into **Smart Contracts Development** ecosystem and **Decentralized Finance**.
 
 ---
 
-## 🚀 My Journey in Tech
+### 🛠️ Tech Stack & Expertise
 
-I’m a curious and driven student who’s actively building a future in tech. My journey started with Python and web development, but I quickly discovered a deep interest in **Blockchain Technology**. Now, I’m committed to mastering smart contract development.
-
-🔸 **What I’m Currently Doing:**
-- Studying core computer science courses at LASU 🏫
-- Building mini-projects in **Solidity** and exploring **Foundry** for smart contract development 💻
-
-🔸 **What I've Learned So Far:**
-- Python (data structures, functions, modules, etc.)
-- Object-Oriented Programming
-- HTML/CSS
-- Smart contract development with Solidity
-- Basic algorithm design and complexity analysis
-
-🔸 **What I'm Learning Next:**
-- Blockchain app development (Solidity + Frontend integration)
-- Smart contract testing and deployment with Foundry
+| Category | Tools & Technologies |
+| :--- | :--- |
+| **Frontend** | ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=flat&logo=javascript&logoColor=black) |
+| **Blockchain** | ![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=flat&logo=solidity&logoColor=white)  |
+| **Backend/Git** | ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white) |
 
 ---
 
-## 🛠️ Projects & Interests
+### 📊 Performance & Analytics
 
-- 🔗 Blockchain dApps and Smart Contracts
-- 🌐 Open-source contributions (coming soon)
+![Akinjeji Feranmi's Stats](https://github-readme-stats.vercel.app/api?username=AkinjejiOluwaferanmi&show_icons=true&theme=radical&rank_icon=github&border_radius=10)
 
----
-
-## 📚 I Believe In:
-
-- **Learning by building**
-- **Consistency over perfection**
-- **Sharing what I know with others**
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AkinjejiOluwaferanmi&layout=compact&theme=radical&border_radius=10)
 
 ---
 
-## 🌍 Let’s Connect!
+### 🤝 Let's Collaborate
 
-Feel free to check out my repositories, follow my progress, or reach out to chat about tech, AI, or blockchain!
-
-📧 Email: [akinjejiferanmi@gmail.com]  
-🐦 Twitter: [![Oluwaferanmi Akinjeji Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/feranmiakinjeji) 
-📘 LinkedIn: [![Oluwaferanmi Akinjeji Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/oluwaferanmi-akinjeji)
+[![X (formerly Twitter)](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/0xFeranmi_)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/oluwaferanmi-akinjeji)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:akinjejiferanmi@gmail.com)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/qr/5TSKGCLY7JFGI1)
 
 ---
 
-> *“The best way to predict the future is to create it.” – Peter Drucker*
+*"Learning and Building!"* ✞
 
-
-<!---
-AkinjejiOluwaferanmi/AkinjejiOluwaferanmi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+</div>
